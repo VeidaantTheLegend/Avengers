@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: deepskyblue;
+}
+
+img{
+    border-style: solid;
+  border-color: #212121;
+  border: 2px;
+  border-radius: 80px;
+  width: 450px;
+  height: 450px;
+  padding: 5px;
+}
